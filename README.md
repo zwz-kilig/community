@@ -3,11 +3,9 @@
 
 ## 资料
 https://git-scm.com/download/win
-<<<<<<< HEAD
 
 http://localhost:8080
-aaaaaaaaaasdasasdfdasfasd
-=======
+
 http://localhost:8080
 
 ## 资料
