@@ -1,6 +1,12 @@
 package com.community.user.dto;
 
 public class AccessTokenDTO {
+    private String client_id;
+    private String client_secret;
+    private String code;
+    private String redirect_uri;
+    private String state;
+
     public String getClient_id() {
         return client_id;
     }
@@ -40,11 +46,4 @@ public class AccessTokenDTO {
     public void setState(String state) {
         this.state = state;
     }
-
-    private String client_id;
-    private String client_secret;
-    private String code;
-    private String redirect_uri;
-    private String state;
-
 }
